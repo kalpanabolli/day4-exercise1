@@ -1,0 +1,8 @@
+D:\Simply Learn\day4\Conapp enum\Conapp enum\bin\Debug\Conapp enum.exe.config
+D:\Simply Learn\day4\Conapp enum\Conapp enum\bin\Debug\Conapp enum.exe
+D:\Simply Learn\day4\Conapp enum\Conapp enum\bin\Debug\Conapp enum.pdb
+D:\Simply Learn\day4\Conapp enum\Conapp enum\obj\Debug\Conapp enum.csproj.AssemblyReference.cache
+D:\Simply Learn\day4\Conapp enum\Conapp enum\obj\Debug\Conapp enum.csproj.SuggestedBindingRedirects.cache
+D:\Simply Learn\day4\Conapp enum\Conapp enum\obj\Debug\Conapp enum.csproj.CoreCompileInputs.cache
+D:\Simply Learn\day4\Conapp enum\Conapp enum\obj\Debug\Conapp enum.exe
+D:\Simply Learn\day4\Conapp enum\Conapp enum\obj\Debug\Conapp enum.pdb

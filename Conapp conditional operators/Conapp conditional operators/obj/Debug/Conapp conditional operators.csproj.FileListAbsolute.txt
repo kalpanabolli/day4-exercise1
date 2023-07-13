@@ -1,0 +1,8 @@
+D:\Simply Learn\day4\Conapp conditional operators\Conapp conditional operators\bin\Debug\Conapp conditional operators.exe.config
+D:\Simply Learn\day4\Conapp conditional operators\Conapp conditional operators\bin\Debug\Conapp conditional operators.exe
+D:\Simply Learn\day4\Conapp conditional operators\Conapp conditional operators\bin\Debug\Conapp conditional operators.pdb
+D:\Simply Learn\day4\Conapp conditional operators\Conapp conditional operators\obj\Debug\Conapp conditional operators.csproj.AssemblyReference.cache
+D:\Simply Learn\day4\Conapp conditional operators\Conapp conditional operators\obj\Debug\Conapp conditional operators.csproj.SuggestedBindingRedirects.cache
+D:\Simply Learn\day4\Conapp conditional operators\Conapp conditional operators\obj\Debug\Conapp conditional operators.csproj.CoreCompileInputs.cache
+D:\Simply Learn\day4\Conapp conditional operators\Conapp conditional operators\obj\Debug\Conapp conditional operators.exe
+D:\Simply Learn\day4\Conapp conditional operators\Conapp conditional operators\obj\Debug\Conapp conditional operators.pdb
